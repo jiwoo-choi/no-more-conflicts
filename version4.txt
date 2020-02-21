@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 
 hello!  <- 버전2 에서 추가함
 hey version 4 here <- 버전 4에서 추가함
 
+=======
+hello!
+hey version 4 here
+>>>>>>> d6025bd791ac7470d8743c1650509ede95a5e841

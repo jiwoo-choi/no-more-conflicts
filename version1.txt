@@ -5,7 +5,13 @@ hiacked by version3->version4
 
 not alone 
 
+<<<<<<< HEAD
 
 
 hiacked by version3->version4
 hello. this is version 1.
+=======
+hiacked by version3->version4
+hello. this is version 1.
+
+>>>>>>> d6025bd791ac7470d8743c1650509ede95a5e841
